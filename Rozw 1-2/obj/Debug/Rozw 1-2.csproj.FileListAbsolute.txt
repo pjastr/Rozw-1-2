@@ -1,0 +1,6 @@
+c:\users\piotrek\documents\visual studio 2013\Projects\Rozw 1-2\Rozw 1-2\bin\Debug\Rozw 1-2.exe.config
+c:\users\piotrek\documents\visual studio 2013\Projects\Rozw 1-2\Rozw 1-2\bin\Debug\Rozw 1-2.exe
+c:\users\piotrek\documents\visual studio 2013\Projects\Rozw 1-2\Rozw 1-2\bin\Debug\Rozw 1-2.pdb
+c:\users\piotrek\documents\visual studio 2013\Projects\Rozw 1-2\Rozw 1-2\obj\Debug\Rozw 1-2.csprojResolveAssemblyReference.cache
+c:\users\piotrek\documents\visual studio 2013\Projects\Rozw 1-2\Rozw 1-2\obj\Debug\Rozw 1-2.exe
+c:\users\piotrek\documents\visual studio 2013\Projects\Rozw 1-2\Rozw 1-2\obj\Debug\Rozw 1-2.pdb
